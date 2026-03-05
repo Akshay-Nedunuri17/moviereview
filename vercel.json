@@ -7,7 +7,7 @@
         },
         {
             "source": "/(.*)",
-            "destination": "/webfrontend/$1"
+            "destination": "/webfrontend/dist/$1"
         }
     ],
     "functions": {
