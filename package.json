@@ -6,6 +6,6 @@
         "install-all": "npm install && cd backend && npm install && cd ../webfrontend && npm install && cd ../frontend && npm install"
     },
     "engines": {
-        "node": "18.x"
+        "node": "24.x"
     }
 }
